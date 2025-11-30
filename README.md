@@ -10,7 +10,7 @@ use in SDE / ML Engineer interviews for 2025–26.
 This repository tracks my **30-day ultra-focused grind**:  
 **Start:** 1 Dec 2025  
 **Deadline:** 31 Dec 2025  
-**Daily Target:** 5–7 problems  
+**Daily Target:** 3-5 problems  
 **Languages:** Python (primary) • C++ (when speed matters)
 
 ---
